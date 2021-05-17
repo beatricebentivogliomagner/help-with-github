@@ -1,0 +1,16 @@
+/* CSS rule */
+body { /* slector */
+    margin: 0; /* css properrty value */
+
+    border-color: red;
+    border-width: 20px;
+    border-style: dashed;
+    /* the border property shorthand */
+    border: 10px solid pink;
+}
+
+p { /*selector */
+    /* declaration*/
+    /*propertu: value;*/
+    color: pink;
+}
